@@ -1,12 +1,12 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Th3b0yn3xtd00r"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+date: "Summer 2023"   
 ---
 
 # A Little Survey
@@ -17,10 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
-
-     
-
+  I attended Poway High school and Abraxas High school during my four years of secondary school. Yes, I graduated from Abraxas High School in 2018. I used to prefer Math over English but lately I've started to like both curriculums. I had trouble with English because I didn't understand it but this year has been able to show me a newfound appreciation for English so now I prefer both common core courses. I was always good at English. I just didn't enjoy it until just recently. When I write I feel as if I am able to place my thoughts down properly rather than keeping them in my brain.
 
 ## Your computer and your and its capability?  
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
